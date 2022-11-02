@@ -48,4 +48,3 @@ Start running the App by running the following command in the working directory 
 ```
 flutter run
 ```
-# Mental_Health_App_With_NLP
